@@ -4,4 +4,4 @@
 
 ### 🎒 Graduando em Engenharia de Software na FIAP
 ### 🐚 Experiéncia em Shell Script
-### 🐧 Certificação - LPI ESSENTIALS ID (LPI000532773)
+### 🐧 Certificação - LPI ESSENTIALS ID
